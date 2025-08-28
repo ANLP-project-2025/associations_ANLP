@@ -1,6 +1,6 @@
 # Associations Project ANLP 2025
 
-Submitted by: Daniel Ruderman | Hodaya Stern Zuckerman | Tamar Gozlan
+**Submitted by**: Daniel Ruderman | Hodaya Stern Zuckerman | Tamar Gozlan
 
 This repository contains the scripts and notebooks that were used to **clean**, **standardize**, and **analyze** free‑association datasets, plus simple training and evaluation notebooks for downstream modeling.
 
