@@ -1,6 +1,8 @@
 # Associations Project ANLP 2025
 
-This repository contains utilities and notebooks to **clean**, **standardize**, and **analyze** free‑association datasets (e.g., SWOW and LLM‑generated FA data), plus simple training/evaluation notebooks for downstream modeling.
+Submitted by: Daniel Ruderman | Hodaya Stern Zuckerman | Tamar Gozlan
+
+This repository contains the scripts and notebooks that were used to **clean**, **standardize**, and **analyze** free‑association datasets, plus simple training and evaluation notebooks for downstream modeling.
 
 ---
 
