@@ -25,7 +25,7 @@ A **training notebook** (Jupyter) that demonstrates how to train a model using t
 ---
 
 ### 4) `ANLP_metrics.ipynb`
-An **evaluation/metrics notebook** (Jupyter) for analyzing model outputs.*
+An **evaluation/metrics notebook** (Jupyter) for analyzing model outputs.
 
 ---
 
